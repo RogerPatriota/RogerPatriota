@@ -1,4 +1,4 @@
-## Hi dear, wellcome to my profile ⚡
+## Hi, wellcome to my profile ⚡
 <div align="center" style="display: flex;">
   <a href="https://github.com/RogerPatiota">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RogerPatriota&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&title_color=40e0d0&icon_color=26867c&border_color=40e0d0&text_color=d8f8f5"/>
